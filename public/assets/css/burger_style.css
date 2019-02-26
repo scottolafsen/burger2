@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+}
+img {
+    height: 170px;
+    width: 250px;
+    margin-left: 623px;
+}
+
+h1 {
+    text-align: center
+}
+h2 {
+    text-align: center
+}
+ul {
+    text-align: center
+}
+form {
+    text-align: center;
+}
